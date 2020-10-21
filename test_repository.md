@@ -8,3 +8,4 @@
 - letter
 - pencil
 - drawing
+- pen
