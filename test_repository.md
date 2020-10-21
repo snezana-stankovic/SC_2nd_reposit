@@ -3,3 +3,8 @@
 #This file is the first file created in the repository
 
 #this is a change
+
+
+-letter
+-pencil
+-drawing
